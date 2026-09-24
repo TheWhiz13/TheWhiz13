@@ -8,6 +8,7 @@ Founder of **LTEC with Lance LLC**, where I build practical apps, toolkits, lear
 [![Portfolio](https://img.shields.io/badge/GitHub-Public%20Portfolio-181717?logo=github)](https://github.com/TheWhiz13/LTECwithLance-Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Lance%20Whisenant-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baselinebuilder/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7516--5190-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7516-5190)
+[![Meet with me](https://img.shields.io/badge/Meet%20with%20me-Book%20a%20time-0A7E8C?logo=microsoftoutlook&logoColor=white)](https://outlook.office.com/bookwithme/user/6fd2b5086f5a48ceb2c173685433d92c@ltecwithlance.com?anonymous&ismsaljsauthenabled&ep=plink)
 
 ---
 
@@ -97,3 +98,5 @@ My work is centered on turning complex technology issues into practical systems 
 **Toolkits and resources:** [ltecwithlance.gumroad.com](https://ltecwithlance.gumroad.com/)
 
 **Research:** [ORCID 0000-0001-7516-5190](https://orcid.org/0000-0001-7516-5190)
+
+**Meet with me:** [Schedule a time](https://outlook.office.com/bookwithme/user/6fd2b5086f5a48ceb2c173685433d92c@ltecwithlance.com?anonymous&ismsaljsauthenabled&ep=plink)
